@@ -7,7 +7,7 @@ end
 ```
 
 ```ruby
-def method2
-  'greetings'
+def method2(name)
+  "greetings #{name}"
 end
 ```
