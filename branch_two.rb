@@ -1,5 +1,5 @@
 def method
-  'hi'
+  "Hello world!"
 end
 
 def method2(name)
